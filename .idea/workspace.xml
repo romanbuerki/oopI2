@@ -68,8 +68,15 @@
       <file leaf-file-name="BossPuzzle.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ch/fhnw/oopI2/wo4/BossPuzzle/BossPuzzle.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state line="18" column="41" selection-start="422" selection-end="422" vertical-scroll-proportion="0.20432693" vertical-offset="0" max-vertical-offset="1248">
               <folding />
+=======
+            <state line="22" column="50" selection-start="586" selection-end="586" vertical-scroll-proportion="0.38915095" vertical-offset="0" max-vertical-offset="848">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+>>>>>>> FETCH_HEAD
             </state>
           </provider>
         </entry>
@@ -119,8 +126,13 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
+<<<<<<< HEAD
     <option name="width" value="2560" />
     <option name="height" value="1345" />
+=======
+    <option name="width" value="1680" />
+    <option name="height" value="945" />
+>>>>>>> FETCH_HEAD
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -566,7 +578,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="0" y="22" width="2560" height="1345" extended-state="6" />
+=======
+    <frame x="0" y="22" width="1680" height="945" extended-state="0" />
+>>>>>>> FETCH_HEAD
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -621,8 +637,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/ch/fhnw/oopI2/wo4/BossPuzzle/BossPuzzle.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="18" column="41" selection-start="422" selection-end="422" vertical-scroll-proportion="0.20432693" vertical-offset="0" max-vertical-offset="1248">
           <folding />
+=======
+        <state line="22" column="50" selection-start="586" selection-end="586" vertical-scroll-proportion="0.38915095" vertical-offset="0" max-vertical-offset="848">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+>>>>>>> FETCH_HEAD
         </state>
       </provider>
     </entry>
